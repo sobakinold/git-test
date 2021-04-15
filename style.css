@@ -1,8 +1,10 @@
 h1 {
     color: blue;
+    font-family: Georgia, "Times New Roman", Times, serif;
 }
 p {
     color: gold;
+    font-size: 2em;
 }
 li {
     color: lime;
